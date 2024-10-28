@@ -191,6 +191,7 @@
     "vlucas/phpdotenv": "^5.5",
     "wpackagist-plugin/adminimize": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
+    "wpackagist-plugin/carousel-block": "*",
     "wpackagist-plugin/classic-editor": "*",
     "wpackagist-plugin/contact-form-7": "*",
     "wpackagist-plugin/contact-form-7-multi-step-module": "*",
