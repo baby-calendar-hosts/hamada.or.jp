@@ -214,6 +214,7 @@
     "wpackagist-plugin/wp-fastest-cache": "*",
     "wpackagist-plugin/wp-mail-smtp": "*",
     "wpackagist-plugin/wp-multibyte-patch": "*",
+    "wpackagist-plugin/wp-simple-booking-calendar": "*",
     "wpackagist-plugin/xml-sitemap-feed": "*",
     "wpengine/advanced-custom-fields-pro": "*"
   },
